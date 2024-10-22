@@ -1,0 +1,4 @@
+**/.idea
+algorithms/cmake-build-debug
+algorithms/CMakeLists.txt
+*.json
